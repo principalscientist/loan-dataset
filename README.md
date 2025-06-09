@@ -10,5 +10,3 @@ Many companies aims to automate the loan qualification process in real time usin
 * Support Vector Machine (SVM)
 * Naive Bayes
 * Decision Tree
-* Random Forest
-* Gradient Boost
